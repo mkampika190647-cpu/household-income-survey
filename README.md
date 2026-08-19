@@ -95,8 +95,15 @@ Coefficient of Variation (CV) ของค่าประมาณรายไ�
 - คำนวณ Point Estimate, Confidence Interval, Standard Error และ CV
 - สรุปและนำเสนอผลการวิเคราะห์ข้อมูล
 
-## Project Type
 
+## Project Report
+
+สามารถดูรายละเอียดเพิ่มเติมเกี่ยวกับการออกแบบการสุ่มตัวอย่าง
+วิธีการวิเคราะห์ทางสถิติ และผลการศึกษาได้จากรายงานฉบับเต็ม
+
+[View Full Project Report](Household%20Income%20Survey%20of%20Student-Farmer%20Families.pdf)
+
+## Project Type
 **Academic Project — Sampling Techniques & Survey Research**
 
 โครงงานนี้เป็นส่วนหนึ่งของรายวิชา **346-322 Sampling Techniques**
